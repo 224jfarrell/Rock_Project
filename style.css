@@ -7,6 +7,10 @@ body {
     background-attachment: fixed;
 }
 
+.container-c {
+    width: 1080px;
+}
+
 .text-header {
     margin-top: 100px;
     text-align: center;
@@ -31,4 +35,8 @@ body {
         opacity: 100%;
         margin-top: 50px;
     }
+}
+
+.rolling-stone {
+    width: 1080px;
 }
