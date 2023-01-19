@@ -9,6 +9,8 @@ body {
 
 .container-c {
     width: 1080px;
+    margin-left: 420px;
+    margin-right: 420px;
 }
 
 .text-header {
@@ -39,4 +41,21 @@ body {
 
 .rolling-stone {
     width: 1080px;
+}
+
+.mt-25 {
+    margin-top: 250px;
+}
+
+.button {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.hidden {
+    text-decoration: none;
+}
+
+.ml-20 {
+    margin-left: 200px;
 }
