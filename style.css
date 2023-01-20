@@ -13,6 +13,12 @@ body {
     margin-right: 420px;
 }
 
+.container-c-2 {
+    width: 1240px;
+    margin-left: 360px;
+    margin-right: 320px;
+}
+
 .text-header {
     margin-top: 100px;
     text-align: center;
@@ -50,6 +56,8 @@ body {
 .button {
     padding: 10px;
     border-radius: 10px;
+    border: 2px solid #0DCAF0;
+    background-color: #076578;
 }
 
 .hidden {
