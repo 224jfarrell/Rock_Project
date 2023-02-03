@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&display=swap');
+
 * {
     max-width: 1920px;
 }
@@ -53,11 +55,18 @@ body {
     margin-top: 250px;
 }
 
-.button {
+.button-i {
     padding: 10px;
     border-radius: 10px;
-    border: 2px solid #0DCAF0;
-    background-color: #076578;
+    border: 2px solid #54b4d3;
+    background-color: #2a5a69;
+}
+
+.button-d {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #dc4c64;
+    background-color: #6e2632;
 }
 
 .hidden {
@@ -66,4 +75,8 @@ body {
 
 .ml-20 {
     margin-left: 200px;
+}
+
+.font {
+    font-family: 'Catamaran', sans-serif;
 }
